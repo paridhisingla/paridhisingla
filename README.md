@@ -78,17 +78,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paridhisingla&layout=compact&theme=dark"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=paridhisingla&show_icons=true&theme=dark"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paridhisingla&theme=dark"/>
-</p>
-
----
-
 ## 🏆 Achievements
 - 🥇 **Hackathon Winner – Somnium: Imagine, Build, Innovate (Feb 2025)**  
    🏆 Secured **3rd place** for building a **MERN-based project within 24 hours**.  
