@@ -2,7 +2,7 @@
 <h3 align="center">🛠️ Software Developer | Passionate about Innovation</h3>
 
 <p align="center">
-  <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr9uawv7lcppbesckongz.png" alt="Paridhi Singla" width="500" height="500"/>
+  <img src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?semt=ais_hybrid&w=740&q=80" alt="Paridhi Singla" width="500"/>
 </p>
 
 <p align="center">
