@@ -2,7 +2,7 @@
 <h3 align="center">🛠️ Software Developer | Passionate about Innovation</h3>
 
 <p align="center">
-  <img src="https://img.freepik.com/premium-vector/software-developer-vector-illustration-communication-technology-cyber-security_1249867-5464.jpg?semt=ais_hybrid&w=740&q=80" alt="Paridhi Singla" width="500"/>
+  <img src="https://img.freepik.com/premium-vector/software-developer-vector-illustration-communication-technology-cyber-security_1249867-5464.jpg?semt=ais_hybrid&w=740&q=80" alt="Paridhi Singla" width="800"/>
 </p>
 
 <p align="center">
