@@ -17,12 +17,6 @@
   <img src="https://img.shields.io/github/followers/paridhisingla?label=Followers&style=for-the-badge&color=181717" alt="GitHub Followers"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
 <!-- ===================== ABOUT ME ===================== -->
 
 ## 🌟 About Me
