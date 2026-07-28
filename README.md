@@ -1,4 +1,5 @@
 <!-- ===================== HEADER ===================== -->
+
 <h1 align="center">👋 Hey there, I'm Paridhi Singla</h1>
 
 <h3 align="center">
@@ -6,101 +7,137 @@
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation"/>
+  <i>Building ideas into reality, one line of code at a time. 💻✨</i>
 </p>
 
+<br>
+
 <p align="center">
-  <b>💻 Building Projects • 🧠 Solving Problems • 🚀 Learning Every Day</b>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Woman Coding Animation"/>
 </p>
+
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=paridhisingla&label=Profile%20Views&color=00BFFF&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/paridhisingla?label=Followers&style=for-the-badge&color=181717" alt="GitHub Followers"/>
 </p>
 
-
-<!-- ===================== ABOUT ME ===================== -->
-
-## 🌟 About Me
-
-<img align="right" width="350" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?semt=ais_hybrid&w=740&q=80" alt="Coding"/>
-
-🎓 **Computer Science & Engineering Student**
-
-💻 Passionate about **Software Development & Full-Stack Engineering**
-
-🚀 I enjoy turning **ideas into real-world applications**
-
-🌱 Currently exploring **Next.js, AI/ML & modern web technologies**
-
-🧠 Continuously improving my **DSA & problem-solving skills**
-
-🏆 Hackathon enthusiast who loves building projects under pressure
-
-💡 Interested in creating **scalable, secure, and user-friendly applications**
-
-⚡ **Fun fact:** I spend more time debugging than coding! 😂
-
-<br clear="right"/>
-
-> ✨ *"The best way to learn technology is to build something with it."*
-
 ---
 
-## 🧑‍💻 My Developer Journey
+# 🌟 About Me
 
-```text
-                 💡 Idea
-                   │
-                   ▼
-              🎨 Design
-                   │
-                   ▼
-             💻 Development
-                   │
-                   ▼
-              🐛 Debugging
-                   │
-                   ▼
-              🚀 Deployment
-                   │
-                   ▼
-             🌱 Keep Learning
-                   │
-                   └──────────► 🔄 Repeat
-```
+<p align="center">
+  <b>👋 Hi, I'm Paridhi Singla!</b>
+</p>
 
-I believe in **learning by building**. Every project I work on teaches me something new — from designing interfaces and building APIs to debugging problems and deploying applications.
+<p align="center">
+  I'm a <b>Computer Science & Engineering student</b> passionate about turning ideas into real-world applications and solving problems through code.
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+💻<br>
+<b>Full-Stack Development</b><br>
+<sub>Building modern web applications</sub>
+</td>
+
+<td align="center" width="25%">
+🧠<br>
+<b>Problem Solving</b><br>
+<sub>Strengthening DSA skills</sub>
+</td>
+
+<td align="center" width="25%">
+🚀<br>
+<b>Hackathons</b><br>
+<sub>Building innovative solutions</sub>
+</td>
+
+<td align="center" width="25%">
+🌱<br>
+<b>Continuous Learning</b><br>
+<sub>Always learning & growing</sub>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+💻 I enjoy building <b>Full-Stack applications</b> and creating clean, scalable, and user-friendly solutions.
+</p>
+
+<p align="center">
+🧠 Currently strengthening my <b>DSA & Problem-Solving</b> skills while exploring <b>Next.js, AI/ML</b>, and scalable software development.
+</p>
+
+<p align="center">
+🏆 I love participating in <b>Hackathons</b>, building projects from scratch, collaborating with others, and learning through hands-on experience.
+</p>
+
+<p align="center">
+🌱 My goal is to continuously <b>Learn • Build • Improve • Grow</b> as a software engineer.
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💻_Code-Create-Learn-00BFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🚀_Build-Improve-Grow-8A2BE2?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <i>✨ "Code. Learn. Build. Repeat." ✨</i>
+</p>
 
 ---
 
 # 🛠️ Tech Arsenal
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript" />
 </p>
 
-### 🎨 Frontend Development
+---
+
+## 🎨 Frontend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,redux,bootstrap" />
 </p>
 
-### ⚙️ Backend Development
+---
+
+## ⚙️ Backend Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+</p>
+
+---
+
+## 🗄️ Databases & Services
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
 </p>
 
-### 🔧 Tools & Technologies
+---
+
+## 🔧 Tools & Platforms
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,postman,vercel" />
@@ -113,7 +150,7 @@ I believe in **learning by building**. Every project I work on teaches me someth
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3 align="center">📈 StockAura</h3>
 
@@ -122,24 +159,24 @@ I believe in **learning by building**. Every project I work on teaches me someth
 </p>
 
 <p align="center">
-A modern stock trading platform designed to simplify stock management and trading for users.
+A feature-rich stock trading platform built with the MERN stack, designed to make stock management and trading simple and accessible.
 </p>
 
 <p align="center">
-✨ Real-time market data<br>
+📊 Real-time Market Data<br>
 💰 Buy & Sell Stocks<br>
 🔐 Secure Authentication<br>
-📊 User-friendly Dashboard<br>
-📱 Responsive Design
+📱 Responsive Interface<br>
+⚡ User-friendly Experience
 </p>
 
 <p align="center">
-<b>MongoDB • Express • React • Node.js</b>
+<b>MongoDB • Express.js • React.js • Node.js</b>
 </p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3 align="center">🚗 Car Rental System</h3>
 
@@ -152,7 +189,7 @@ A Java-based car rental management system built using JDBC and MVC architecture.
 </p>
 
 <p align="center">
-👨‍💼 Admin Management<br>
+👨‍💼 Admin Panel<br>
 🚘 Car Management<br>
 🔍 Search & Filtering<br>
 👤 User Authentication<br>
@@ -169,7 +206,7 @@ A Java-based car rental management system built using JDBC and MVC architecture.
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3 align="center">💬 Zyraa</h3>
 
@@ -178,15 +215,15 @@ A Java-based car rental management system built using JDBC and MVC architecture.
 </p>
 
 <p align="center">
-A next-generation social media platform focused on communication, communities, and real-time interaction.
+A modern social media platform focused on communication, communities, and real-time interaction.
 </p>
 
 <p align="center">
-📝 Create Posts<br>
+📝 Create & Share Posts<br>
 💬 Real-time Chat<br>
-👥 Communities<br>
-🔐 Authentication<br>
-⚡ Modern UI
+👥 Build Communities<br>
+🔐 Secure Authentication<br>
+⚡ Modern User Interface
 </p>
 
 <p align="center">
@@ -195,7 +232,7 @@ A next-generation social media platform focused on communication, communities, a
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3 align="center">🚑 Emergency Medical Guidance</h3>
 
@@ -223,9 +260,11 @@ An AI-powered platform designed to provide emergency medical guidance and assist
 </tr>
 </table>
 
+<br>
+
 <p align="center">
   <a href="https://github.com/paridhisingla?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🚀_Explore_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -238,37 +277,41 @@ An AI-powered platform designed to provide emergency medical guidance and assist
 
 <td align="center" width="50%">
 
-🏆 <br> <b>Hackathon Achievement</b>
+<h3>🥉 Hackathon Achievement</h3>
+
+<b>Somnium: Imagine, Build, Innovate</b>
 
 <br><br>
 
-🥉 **3rd Place**
-
-<br>
-
-Somnium: Imagine, Build, Innovate
+🏆 <b>3rd Place Winner</b>
 
 <br><br>
 
-⏱️ Built a MERN-based project within **24 hours**
+⏱️ Built a MERN-based project within <b>24 hours</b>
+
+<br><br>
+
+💡 Strengthened problem-solving, teamwork, and rapid development skills.
 
 </td>
 
 <td align="center" width="50%">
 
-🌐 <br> <b>Web 3.0 Bootcamp</b>
+<h3>🌐 Web 3.0 Bootcamp</h3>
+
+<b>HackQuest × DevLearn</b>
 
 <br><br>
 
-🚀 HackQuest × DevLearn
-
-<br>
-
-TelosIRL CoLearning Camp
+🚀 TelosIRL CoLearning Camp
 
 <br><br>
 
-Explored decentralized technologies and the Web3 ecosystem
+Participated in <b>"Innovating in the Web 3.0 Era"</b>
+
+<br><br>
+
+💡 Explored decentralized technologies and emerging innovations.
 
 </td>
 
@@ -282,13 +325,50 @@ Explored decentralized technologies and the Web3 ecosystem
 <p align="center">
 
 <img src="https://img.shields.io/badge/DSA-Problem%20Solving-FF6F00?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Next.js-Development-000000?style=for-the-badge&logo=next.js"/>
+
 <img src="https://img.shields.io/badge/AI%2FML-Exploring-412991?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/System%20Design-Learning-1572B6?style=for-the-badge"/>
 
 </p>
 
-> 🌱 **My goal:** Become a strong software engineer by continuously learning, building, and solving meaningful problems.
+<br>
+
+<table align="center">
+<tr>
+
+<td align="center">🧠</td>
+<td><b>Data Structures & Algorithms</b></td>
+<td>Improving problem-solving skills</td>
+
+</tr>
+
+<tr>
+
+<td align="center">⚡</td>
+<td><b>Next.js</b></td>
+<td>Building modern web applications</td>
+
+</tr>
+
+<tr>
+
+<td align="center">🤖</td>
+<td><b>AI / ML</b></td>
+<td>Exploring intelligent applications</td>
+
+</tr>
+
+<tr>
+
+<td align="center">🏗️</td>
+<td><b>System Design</b></td>
+<td>Understanding scalable systems</td>
+
+</tr>
+</table>
 
 ---
 
@@ -299,40 +379,70 @@ Explored decentralized technologies and the Web3 ecosystem
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paridhisingla&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
+<br>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=paridhisingla&theme=tokyonight&hide_border=true" width="70%"/>
 </p>
 
 ---
 
-# 🧩 What I Enjoy
+# 💡 What I Enjoy
 
-<p align="center">
+<table align="center">
+<tr>
 
-|     💻 Coding    |    🚀 Building    |      🧠 Learning     |
-| :--------------: | :---------------: | :------------------: |
-| Solving Problems | Creating Projects | Exploring Technology |
+<td align="center" width="150">
+💻<br>
+<b>Coding</b><br>
+<sub>Solving problems</sub>
+</td>
 
-|      🏆 Hackathons      |  🤝 Collaboration  |      🌱 Growth      |
-| :---------------------: | :----------------: | :-----------------: |
-| Building Under Pressure | Working With Teams | Improving Every Day |
+<td align="center" width="150">
+🚀<br>
+<b>Building</b><br>
+<sub>Creating projects</sub>
+</td>
 
-</p>
+<td align="center" width="150">
+🧠<br>
+<b>Learning</b><br>
+<sub>Exploring technology</sub>
+</td>
+
+<td align="center" width="150">
+🏆<br>
+<b>Hackathons</b><br>
+<sub>Building under pressure</sub>
+</td>
+
+<td align="center" width="150">
+🌱<br>
+<b>Growth</b><br>
+<sub>Improving every day</sub>
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/paridhi-singla9/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:paridhisingla66@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/paridhisingla">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/paridhi-singla9/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:paridhisingla66@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/paridhisingla">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -344,6 +454,12 @@ Explored decentralized technologies and the Web3 ecosystem
 <p align="center">
   ⭐ If you like my work, consider giving my repositories a star!
 </p>
+
+<p align="center">
+  <i>✨ Keep learning. Keep building. Keep growing. ✨</i>
+</p>
+
+<br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
