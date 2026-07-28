@@ -13,9 +13,12 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Developer Coding"/>
+  <img 
+    src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg" 
+    width="400" 
+    alt="Female Developer Coding"
+  />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=paridhisingla&label=Profile%20Views&color=0e75b6&style=flat-square"/>
   &nbsp;
