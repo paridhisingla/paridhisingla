@@ -1,21 +1,23 @@
 <!-- ===================== HEADER ===================== -->
-
-<h1 align="center">
-  👋 Hey there, I'm <span style="color:#00BFFF;">Paridhi Singla</span>
-</h1>
+<h1 align="center">👋 Hey there, I'm Paridhi Singla</h1>
 
 <h3 align="center">
   🚀 Software Developer • Full-Stack Developer • Problem Solver
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!+👋;I+love+building+real-world+projects+🚀;Full-Stack+Developer+💻;Always+Learning+%7C+Always+Building+%7C+Always+Growing+🌱" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation"/>
+</p>
+
+<p align="center">
+  <b>💻 Building Projects • 🧠 Solving Problems • 🚀 Learning Every Day</b>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=paridhisingla&label=Profile%20Views&color=00BFFF&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/paridhisingla?label=Followers&style=for-the-badge&color=181717" alt="GitHub Followers"/>
 </p>
+
 
 <!-- ===================== ABOUT ME ===================== -->
 
