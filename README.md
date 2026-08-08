@@ -1,225 +1,347 @@
-# 👋 Paridhi Singla
+<div align="center">
 
-### Software Developer · Full-Stack Engineer · Problem Solver
+# PARIDHI SINGLA
 
-<p align="center">
-  <i>Designing scalable applications, solving meaningful problems, and continuously evolving as a software engineer.</i>
+### Software Engineer · Full-Stack Developer · Problem Solver
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Software+Solutions;Full-Stack+Development+%7C+AI+%7C+System+Design;Data+Structures+%26+Algorithms;Turning+Ideas+Into+Real-World+Applications" />
 </p>
 
-<p align="center">
-  <img src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg" width="360" alt="Software Developer"/>
+<p>
+  <a href="https://github.com/paridhisingla">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/paridhi-singla9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:paridhisingla66@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=paridhisingla&label=Profile%20Views&color=0e75b6&style=flat-square"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/paridhisingla?label=Followers&style=flat-square"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=paridhisingla&label=PROFILE+VIEWS&color=58A6FF&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/paridhisingla?label=FOLLOWERS&color=58A6FF&style=flat-square"/>
 </p>
+
+</div>
 
 ---
 
-## 👩‍💻 Professional Profile
+## About Me
 
-I am a **Computer Science & Engineering student and aspiring Software Engineer** with a strong interest in full-stack development, problem solving, and emerging technologies.
+I am a **Computer Science & Engineering student** focused on building reliable, scalable, and user-oriented software applications.
 
-I enjoy transforming ideas into **scalable, practical, and user-focused software solutions**, while continuously strengthening my foundation in computer science and software engineering.
+My primary interests include **full-stack development, backend engineering, artificial intelligence, system design, and algorithmic problem solving**.
 
-* 💻 Strong interest in **Full-Stack Development & Software Engineering**
-* 🧠 Strengthening **Data Structures, Algorithms & Problem Solving**
-* ⚡ Exploring **Next.js, AI/ML & Modern Application Development**
-* 🏗️ Interested in **Scalable Systems, APIs & Software Architecture**
-* 🚀 Experienced in building projects through **hackathons and collaborative environments**
-* 🤝 Open to **software engineering opportunities, collaborations, and impactful projects**
+I enjoy working across the complete software development lifecycle — from understanding a problem and designing the architecture to implementing, testing, and deploying a solution.
 
-> **Engineering Philosophy:** Build with purpose. Learn continuously. Solve problems thoughtfully.
+### Current Focus
 
----
-
-# 🛠️ Technical Expertise
-
-### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript" />
-</p>
-
-### Frontend Engineering
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,redux,bootstrap" />
-</p>
-
-### Backend & API Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-  <img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=flat-square"/>
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white"/>
-</p>
-
-### Databases & Data Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
-</p>
-
-### Tools, Cloud & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,postman,vercel" />
-</p>
+* Data Structures & Algorithms
+* Full-Stack Engineering
+* Backend & API Development
+* Next.js & Modern Web Architecture
+* Artificial Intelligence / Machine Learning
+* System Design & Scalable Applications
+* Cloud & DevOps Fundamentals
 
 ---
 
-# 🚀 Selected Projects
+# Technical Stack
 
-## 📈 StockAura — Stock Trading Platform
+<div align="center">
 
-A full-stack stock trading platform designed to provide users with an intuitive interface for monitoring and managing stock transactions.
+### Languages
 
-### Key Capabilities
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript" />
 
-* Real-time market data integration
-* Buy and sell transaction workflows
-* Secure user authentication
-* Stock and portfolio management
-* Responsive and user-centric interface
+### Frontend
 
-**Technology:** `MongoDB` `Express.js` `React.js` `Node.js`
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,bootstrap" />
 
----
+### Backend & Databases
 
-## 🚗 Car Rental Management System
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase" />
 
-A Java-based application developed using **JDBC and MVC architecture** to streamline vehicle management and rental operations.
+### Tools & Infrastructure
 
-### Key Capabilities
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,postman,vercel" />
 
-* Role-based admin and user workflows
-* Vehicle inventory management
-* User registration and authentication
-* Search, sorting, and filtering
-* Car reservation and booking management
-
-**Technology:** `Java` `JDBC` `MySQL` `MVC`
+</div>
 
 ---
 
-## 💬 Zyraa — Social Media Platform
+# Featured Projects
 
-A modern social networking platform focused on content sharing, community interaction, and real-time communication.
+<table>
+<tr>
+<td width="50%">
 
-### Key Capabilities
+## StockAura
 
-* User authentication and profiles
-* Post creation and content sharing
+**Stock Trading Platform**
+
+A MERN-based stock trading application focused on market monitoring, transaction workflows, authentication, and portfolio management.
+
+**Core Features**
+
+* Market data integration
+* Buy / sell workflows
+* Authentication
+* Portfolio management
+* Responsive UI
+
+`MongoDB` `Express` `React` `Node.js`
+
+</td>
+
+<td width="50%">
+
+## Zyraa
+
+**Social Media Platform**
+
+A full-stack social platform designed around content sharing, community interaction, and real-time communication.
+
+**Core Features**
+
+* Authentication
+* Content sharing
 * Real-time messaging
 * Community interaction
-* Responsive user interface
+* Responsive interface
 
-**Technology:** `MERN` `WebSockets` `REST APIs`
+`MERN` `REST APIs` `WebSockets`
 
----
+</td>
+</tr>
 
-## 🚑 Emergency Medical Guidance System
+<tr>
+<td width="50%">
 
-An AI-enabled emergency assistance platform designed to provide preliminary medical guidance and help users locate appropriate healthcare facilities.
+## Car Rental System
 
-### Key Capabilities
+**Java Application**
 
-* AI-assisted emergency guidance
-* First-aid information
-* Location-based hospital discovery
-* Healthcare facility search
-* Digital medical profile
+A Java-based rental management system developed using MVC architecture with JDBC and MySQL.
 
-**Technology:** `MERN` `AI/ML` `REST APIs` `Location Services`
+**Core Features**
 
----
+* User authentication
+* Vehicle management
+* Booking management
+* Search & filtering
+* Admin workflows
 
-<p align="center">
-  <a href="https://github.com/paridhisingla?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-0e75b6?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+`Java` `JDBC` `MySQL` `MVC`
 
----
+</td>
 
-# 🏆 Achievements & Experience
+<td width="50%">
 
-## 🥉 Hackathon — 3rd Place
+## Emergency Medical Guidance
 
-### Somnium: Imagine, Build, Innovate · February 2025
+**AI-Assisted Platform**
 
-Secured **3rd place** in a competitive 24-hour hackathon by developing a MERN-based application under strict time constraints.
+An AI-enabled application designed to provide preliminary emergency guidance and assist users in locating healthcare facilities.
 
-The experience strengthened my capabilities in:
+**Core Features**
 
-* Rapid application development
-* Team collaboration
-* Problem solving
-* Technical decision-making
-* Working effectively under pressure
+* AI assistance
+* First-aid guidance
+* Hospital discovery
+* Location services
+* Medical profile
 
----
+`MERN` `AI` `REST APIs`
 
-## 🌐 Web 3.0 Bootcamp
-
-### HackQuest × DevLearn — TelosIRL CoLearning Camp
-
-Participated in **“Innovating in the Web 3.0 Era”**, gaining exposure to decentralized technologies, emerging digital ecosystems, and modern technology trends.
+</td>
+</tr>
+</table>
 
 ---
 
-# 📚 Currently Exploring
+# System Architecture
 
-| Area                                | Focus                                     |
-| ----------------------------------- | ----------------------------------------- |
-| 🧠 **Data Structures & Algorithms** | Problem Solving & Competitive Programming |
-| ⚡ **Next.js**                       | Modern Full-Stack Applications            |
-| 🤖 **AI / ML**                      | Intelligent Software Applications         |
-| 🏗️ **System Design**               | Scalable & Maintainable Systems           |
-| 💻 **Full-Stack Engineering**       | Advanced Application Development          |
+<div align="center">
 
----
+```text
+                         ┌──────────────────────┐
+                         │        USER          │
+                         │   Web / Mobile UI    │
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                         ┌──────────────────────┐
+                         │      FRONTEND        │
+                         │ React / Next.js      │
+                         └──────────┬───────────┘
+                                    │
+                         ┌──────────┴───────────┐
+                         │                      │
+                         ▼                      ▼
+                  ┌─────────────┐       ┌─────────────┐
+                  │  REST APIs  │       │  WebSockets │
+                  └──────┬──────┘       └──────┬──────┘
+                         │                      │
+                         └──────────┬───────────┘
+                                    ▼
+                         ┌──────────────────────┐
+                         │       BACKEND        │
+                         │ Node.js / Express    │
+                         └──────────┬───────────┘
+                                    │
+                     ┌──────────────┼──────────────┐
+                     ▼              ▼              ▼
+                ┌─────────┐   ┌──────────┐   ┌──────────┐
+                │ MongoDB │   │  MySQL   │   │ External │
+                │         │   │          │   │   APIs   │
+                └─────────┘   └──────────┘   └──────────┘
 
-# 📊 GitHub Activity
+```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paridhisingla&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paridhisingla&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paridhisingla&theme=tokyonight&hide_border=true" width="70%"/>
-</p>
-
----
-
-# 🤝 Connect With Me
-
-I am interested in connecting with **software engineers, developers, technology enthusiasts, and organizations** working on meaningful technology solutions.
-
-<p>
-  <a href="https://www.linkedin.com/in/paridhi-singla9/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:paridhisingla66@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/paridhisingla">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <b>Building with Purpose · Engineering with Curiosity · Growing with Every Challenge</b>
-</p>
+# GitHub Analytics
 
-<p align="center">
-  ⭐ <i>Thank you for visiting my profile.</i>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=paridhisingla&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paridhisingla&layout=donut&hide_border=true&theme=github_dark&langs_count=8" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=paridhisingla&theme=github-dark-blue&hide_border=true" width="75%"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=paridhisingla&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=paridhisingla&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"/>
+
+</div>
+
+---
+
+# Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.demolab.com?user=paridhisingla&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="75%"/>
+
+</div>
+
+---
+
+# Engineering Interests
+
+<div align="center">
+
+|            Area            | Focus                                         |
+| :------------------------: | :-------------------------------------------- |
+|  **Software Engineering**  | Clean, maintainable and reliable applications |
+| **Full-Stack Development** | End-to-end web application development        |
+|   **Backend Engineering**  | APIs, authentication and real-time systems    |
+|     **AI Engineering**     | AI-enabled software applications              |
+|      **System Design**     | Scalable and maintainable architectures       |
+|     **Problem Solving**    | Data Structures & Algorithms                  |
+|     **Cloud & DevOps**     | Deployment, containers and infrastructure     |
+
+</div>
+
+---
+
+# Achievements
+
+<div align="center">
+
+### 🥉 3rd Place — Somnium: Imagine, Build, Innovate
+
+**February 2025 · 24-Hour Hackathon**
+
+Developed a MERN-based solution under strict time constraints and secured **3rd place** in the competition.
+
+**Skills demonstrated:**
+`Rapid Development` · `Teamwork` · `Problem Solving` · `Technical Decision Making`
+
+<br>
+
+### Web 3.0 Bootcamp
+
+**HackQuest × DevLearn — TelosIRL CoLearning Camp**
+
+Participated in *Innovating in the Web 3.0 Era* and explored decentralized technologies and emerging digital ecosystems.
+
+</div>
+
+---
+
+# Developer Dashboard
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Primary%20Focus-Full--Stack%20Engineering-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database-MongoDB%20%7C%20SQL-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Exploring-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-Active-58A6FF?style=for-the-badge"/>
+
+</div>
+
+---
+
+# Connect
+
+<div align="center">
+
+I'm open to **software engineering opportunities, technical collaborations, and projects involving full-stack development, backend engineering, and AI-enabled applications.**
+
+<br>
+
+<a href="https://www.linkedin.com/in/paridhi-singla9/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:paridhisingla66@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/paridhisingla">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `Build • Learn • Solve • Evolve`
+
+<i>Focused on building meaningful software and continuously improving as an engineer.</i>
+
+</div>
