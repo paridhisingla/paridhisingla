@@ -1,24 +1,15 @@
-<!-- ===================================================== -->
+# 👋 Paridhi Singla
 
-<!--                     HEADER                            -->
-
-<!-- ===================================================== -->
-
-<h1 align="center">👋 Hi, I'm Paridhi Singla</h1>
-
-<h3 align="center">Software Developer | Full-Stack Developer | Problem Solver</h3>
+### Software Developer · Full-Stack Engineer · Problem Solver
 
 <p align="center">
-  <i>Building meaningful projects and learning something new every day.</i>
+  <i>Designing scalable applications, solving meaningful problems, and continuously evolving as a software engineer.</i>
 </p>
 
 <p align="center">
-  <img 
-    src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg" 
-    width="400" 
-    alt="Female Developer Coding"
-  />
+  <img src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg" width="360" alt="Software Developer"/>
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=paridhisingla&label=Profile%20Views&color=0e75b6&style=flat-square"/>
   &nbsp;
@@ -27,50 +18,52 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 Professional Profile
 
-Hi! I'm **Paridhi Singla**, a Computer Science & Engineering student who enjoys turning ideas into real-world applications.
+I am a **Computer Science & Engineering student and aspiring Software Engineer** with a strong interest in full-stack development, problem solving, and emerging technologies.
 
-* 💻 Passionate about **Full-Stack Development** and building practical, user-friendly applications.
-* 🧠 Currently improving my **Data Structures & Algorithms** and problem-solving skills.
-* 🚀 Exploring **Next.js, AI/ML, and scalable software development**.
-* 🏆 Enjoy participating in **hackathons** and building projects under challenging time constraints.
-* 🌱 Always curious about learning new technologies and improving my development skills.
-* 🤝 Open to collaborating on interesting projects and learning from other developers.
+I enjoy transforming ideas into **scalable, practical, and user-focused software solutions**, while continuously strengthening my foundation in computer science and software engineering.
 
-> **My goal:** Keep learning, keep building, and become a better software engineer every day.
+* 💻 Strong interest in **Full-Stack Development & Software Engineering**
+* 🧠 Strengthening **Data Structures, Algorithms & Problem Solving**
+* ⚡ Exploring **Next.js, AI/ML & Modern Application Development**
+* 🏗️ Interested in **Scalable Systems, APIs & Software Architecture**
+* 🚀 Experienced in building projects through **hackathons and collaborative environments**
+* 🤝 Open to **software engineering opportunities, collaborations, and impactful projects**
+
+> **Engineering Philosophy:** Build with purpose. Learn continuously. Solve problems thoughtfully.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Technical Expertise
 
-### Languages
+### Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript" />
 </p>
 
-### Frontend
+### Frontend Engineering
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,redux,bootstrap" />
 </p>
 
-### Backend & APIs
+### Backend & API Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
-  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=flat-square"/>
   <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white"/>
 </p>
 
-### Databases
+### Databases & Data Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
 </p>
 
-### Tools & Platforms
+### Tools, Cloud & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,postman,vercel" />
@@ -78,111 +71,119 @@ Hi! I'm **Paridhi Singla**, a Computer Science & Engineering student who enjoys 
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Selected Projects
 
-### 📈 StockAura — Stock Trading Platform
+## 📈 StockAura — Stock Trading Platform
 
-A feature-rich stock trading platform built using the **MERN stack**, designed to provide users with a simple and intuitive way to manage and trade stocks.
+A full-stack stock trading platform designed to provide users with an intuitive interface for monitoring and managing stock transactions.
 
-**Key Features:**
+### Key Capabilities
 
-* Real-time market data
-* Buy and sell functionality
-* User authentication
-* Stock management
+* Real-time market data integration
+* Buy and sell transaction workflows
+* Secure user authentication
+* Stock and portfolio management
+* Responsive and user-centric interface
+
+**Technology:** `MongoDB` `Express.js` `React.js` `Node.js`
+
+---
+
+## 🚗 Car Rental Management System
+
+A Java-based application developed using **JDBC and MVC architecture** to streamline vehicle management and rental operations.
+
+### Key Capabilities
+
+* Role-based admin and user workflows
+* Vehicle inventory management
+* User registration and authentication
+* Search, sorting, and filtering
+* Car reservation and booking management
+
+**Technology:** `Java` `JDBC` `MySQL` `MVC`
+
+---
+
+## 💬 Zyraa — Social Media Platform
+
+A modern social networking platform focused on content sharing, community interaction, and real-time communication.
+
+### Key Capabilities
+
+* User authentication and profiles
+* Post creation and content sharing
+* Real-time messaging
+* Community interaction
 * Responsive user interface
 
-**Tech:** `MongoDB` `Express.js` `React.js` `Node.js`
+**Technology:** `MERN` `WebSockets` `REST APIs`
 
 ---
 
-### 🚗 Car Rental Management System
+## 🚑 Emergency Medical Guidance System
 
-A Java-based car rental management system built using **JDBC and MVC architecture**.
+An AI-enabled emergency assistance platform designed to provide preliminary medical guidance and help users locate appropriate healthcare facilities.
 
-**Key Features:**
+### Key Capabilities
 
-* Admin and user panels
-* Car management
-* User registration and login
-* Search, sorting, and filtering
-* Car booking functionality
+* AI-assisted emergency guidance
+* First-aid information
+* Location-based hospital discovery
+* Healthcare facility search
+* Digital medical profile
 
-**Tech:** `Java` `JDBC` `MySQL` `MVC`
-
----
-
-### 💬 Zyraa — Social Media Platform
-
-A modern social media platform focused on connecting users, sharing content, and enabling real-time communication.
-
-**Key Features:**
-
-* Create and share posts
-* Real-time messaging
-* Community building
-* User authentication
-* Modern and responsive interface
-
-**Tech:** `MERN` `WebSockets` `REST APIs`
+**Technology:** `MERN` `AI/ML` `REST APIs` `Location Services`
 
 ---
 
-### 🚑 Emergency Medical Guidance System
-
-An AI-powered platform designed to provide emergency medical guidance and assistance while professional help is on the way.
-
-**Key Features:**
-
-* AI-powered medical assistance
-* Emergency first-aid guidance
-* Hospital finder
-* Location-based services
-* User medical profile
-
-**Tech:** `MERN` `AI` `APIs`
-
----
-
-<p align="left">
+<p align="center">
   <a href="https://github.com/paridhisingla?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-0e75b6?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-0e75b6?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements & Experience
 
-### 🥉 Hackathon — 3rd Place
+## 🥉 Hackathon — 3rd Place
 
-**Somnium: Imagine, Build, Innovate — February 2025**
+### Somnium: Imagine, Build, Innovate · February 2025
 
-Secured **3rd place** by building a MERN-based project within **24 hours**.
+Secured **3rd place** in a competitive 24-hour hackathon by developing a MERN-based application under strict time constraints.
 
-This experience helped me improve my skills in rapid development, teamwork, problem-solving, and building under pressure.
+The experience strengthened my capabilities in:
 
----
-
-### 🌐 Web 3.0 Bootcamp
-
-**HackQuest × DevLearn — TelosIRL CoLearning Camp**
-
-Participated in **"Innovating in the Web 3.0 Era"** and explored decentralized technologies and emerging innovations.
+* Rapid application development
+* Team collaboration
+* Problem solving
+* Technical decision-making
+* Working effectively under pressure
 
 ---
 
-## 🌱 Currently Learning
+## 🌐 Web 3.0 Bootcamp
 
-* 🧠 **Data Structures & Algorithms**
-* ⚡ **Next.js**
-* 🤖 **AI / ML**
-* 🏗️ **System Design**
-* 💻 **Advanced Full-Stack Development**
+### HackQuest × DevLearn — TelosIRL CoLearning Camp
+
+Participated in **“Innovating in the Web 3.0 Era”**, gaining exposure to decentralized technologies, emerging digital ecosystems, and modern technology trends.
 
 ---
 
-## 📊 GitHub Stats
+# 📚 Currently Exploring
+
+| Area                                | Focus                                     |
+| ----------------------------------- | ----------------------------------------- |
+| 🧠 **Data Structures & Algorithms** | Problem Solving & Competitive Programming |
+| ⚡ **Next.js**                       | Modern Full-Stack Applications            |
+| 🤖 **AI / ML**                      | Intelligent Software Applications         |
+| 🏗️ **System Design**               | Scalable & Maintainable Systems           |
+| 💻 **Full-Stack Engineering**       | Advanced Application Development          |
+
+---
+
+# 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=paridhisingla&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
@@ -195,30 +196,30 @@ Participated in **"Innovating in the Web 3.0 Era"** and explored decentralized t
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Connect With Me
 
-I'm always open to connecting with developers, collaborating on interesting projects, and exploring new opportunities.
+I am interested in connecting with **software engineers, developers, technology enthusiasts, and organizations** working on meaningful technology solutions.
 
 <p>
   <a href="https://www.linkedin.com/in/paridhi-singla9/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:paridhisingla66@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://github.com/paridhisingla">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>✨ Keep Learning • Keep Building • Keep Growing ✨</b>
+  <b>Building with Purpose · Engineering with Curiosity · Growing with Every Challenge</b>
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  ⭐ <i>Thank you for visiting my profile.</i>
 </p>
